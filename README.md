@@ -8,6 +8,6 @@ node ./index.js <path/to/css/file>
 ```
 For example
 ```
-node ./index.js ../atgse/packages/atgse/src/payment/Deposit.css
+node ./index.js Component.css
 ```
 The result of the conversion will be placed in the same folder as the source file with extension `.styles.js`.
