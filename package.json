@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "camelcase": "4.1.0",
+    "meow": "^4.0.0",
+    "postcss": "6.0.13",
+    "postcss-selector-parser": "3.0.0-rc.0",
+    "prettier": "1.7.4"
+  },
+  "deprecated": false,
+  "description": "A tool to generate trendy CSS-in-JS files from regular CSS.",
+  "devDependencies": {
+    "@types/archiver": "2.0.0",
+    "@types/jest": "21.1.2",
+    "@types/lodash": "4.14.77",
+    "@types/node": "8.0.32",
+    "@types/prettier": "1.7.0",
+    "jest": "21.2.1",
+    "lodash.shuffle": "4.2.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "css-emotion",
+  "scripts": {
+    "test": "jest",
+    "debug": "node --nolazy --inspect-brk=9229 index.js"
+  },
+  "version": "0.3.0"
+}

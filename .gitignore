@@ -1,0 +1,12 @@
+tmp/
+.history/
+.npmignore
+.vscode/
+.npm/
+node/
+.gitconfig
+npm-debug.log
+lerna-debug.log
+package-lock.json
+node_modules/
+.DS_Store
